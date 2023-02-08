@@ -26,7 +26,7 @@ const Navbar = () => (
           className="text-yellow-600 hover:text-yellow-300 transition-colors duration-200 ease-in"
         />
       </a>
-      <a href="https://www.linkedin.com/in/marcello-belanda-batista-362109262/">
+      <a href="www.linkedin.com/in/marcello-belanda-batista">
         <LinkedinLogo 
           size={25}
           className="text-yellow-600 hover:text-yellow-300 transition-colors duration-200 ease-in"
