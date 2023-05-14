@@ -1,0 +1,6 @@
+version: '3'
+services: 
+  apodapp: 
+    image: apodjourney:1.0.0
+    ports: 
+      - 8081:80
